@@ -1,2 +1,4 @@
 pydemo/settings.py
 pydemo/wsgi.py
+__pycache__
+*.pyc
